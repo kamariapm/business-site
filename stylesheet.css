@@ -1,0 +1,92 @@
+/* all jumbotrons */
+.jumbotron{font-family:'Lucida Grande';
+}
+
+/* for index: */
+.bcgrd{ 
+    background-color:palegoldenrod;
+    margin:auto
+}
+
+#pics{
+    padding: 100px;
+}
+
+#head{
+    background-color: rgb(245, 199, 199);
+    color: rgb(151, 148, 148);
+    font-weight: bold;
+    margin-bottom: .5%
+}
+    
+/* contact */
+
+#jumbocontact{
+    margin-bottom: 0%
+}
+
+.contactbody{
+    padding:40px;
+    margin-top: 20px;
+    margin-bottom: 10px
+}
+
+.bccontact{
+    margin-top:50px
+}
+
+/* shop */
+
+#jumboshop{
+    background-color: rgb(214, 247, 214);
+    color: rgb(151, 148, 148);
+}
+
+.containershop{
+    background:lightyellow;
+}
+#photos{
+    padding:100px
+}
+
+/* about us */
+.aboutus{
+padding: 20px;
+}
+
+#jumboabout{
+    /* background-color: rgb(176, 255, 229);
+    color: rgb(151, 148, 148);  */
+    margin-bottom: 0%  
+}
+
+/* special order */
+#jumbospo{
+    background-color: rgb(214, 247, 214);
+    color: rgb(151, 148, 148);  
+}
+
+.specreq{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 10px;
+
+}
+
+.specrback{
+    background-color: lightyellow;
+    padding: 30px;
+    margin-bottom: 0%;
+}
+
+.btspecreq{
+    margin-left: 1090px;
+    margin-bottom: 2%;
+}
+
+.bcspecreq{
+    margin-top: -2%;
+}
+
+
+
